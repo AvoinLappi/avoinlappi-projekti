@@ -1,4 +1,4 @@
-projekti
+AvoinLappi-projekti
 ========
 
 AvoinLappi: projekti- ja hankesuunnittelu
