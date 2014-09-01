@@ -1,3 +1,20 @@
-Hankeide - business canvas 2013
 
-![Hankeidea (fi)](https://github.com/AvoinLappi/projekti/blob/master/AvoinLappi-hanke_ja_palvelut.png "AvoinLappi-hankeidea (business canvas)")
+# AvoinLappi-hankeidea
+
+## Ydinidea kuvana
+
+![Hankeidea (fi)](/blob/master/AvoinLappi-hanke_ja_palvelut.png "AvoinLappi-hankeidea (business canvas)")
+
+## Busines canvas
+
+1. Problem
+2. B
+3. C
+4. D
+5. E
+6. F
+7. G
+8. H
+9. I
+
+
