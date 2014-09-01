@@ -1,20 +1,20 @@
 
 # AvoinLappi-hankeidea
 
-## Ydinidea kuvana
+## Pääkohdat (kuva)
 
-![Hankeidea (fi)](/AvoinLappi-hanke_ja_palvelut.png?raw=true "AvoinLappi-hankeidea (business canvas)")
+![AvoinLappi-hankeidea](AvoinLappi-hanke_ja_palvelut.png "Jukka Aaltonen, Janita Korva")
 
-## Busines canvas
+## Pääkohdat (liiketoimintapohja)
 
-1. Problem
-2. B
-3. C
-4. D
-5. E
-6. F
-7. G
-8. H
-9. I
+### 1. Ongelma
+### 2. Asiakasryhmät ja yhteistyötahot
+### 3. Arvolupaus
+### 4. Ratkaisu
+### 5. Ydintoiminnot
+### 6. Kanavat
+### 7. Tuote, palvelu, hankesisältö
+### 8. Markkina, yhteistyötahot, kumappnit, kilpailijat, asiakkaat
+### 9. Epäreilu kilpailuetu
 
 
