@@ -3,7 +3,7 @@
 
 ## Ydinidea kuvana
 
-![Hankeidea (fi)](/blob/master/AvoinLappi-hanke_ja_palvelut.png?raw=true "AvoinLappi-hankeidea (business canvas)")
+![Hankeidea (fi)](/AvoinLappi-hanke_ja_palvelut.png?raw=true "AvoinLappi-hankeidea (business canvas)")
 
 ## Busines canvas
 
